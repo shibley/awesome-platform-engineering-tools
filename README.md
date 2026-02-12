@@ -403,6 +403,7 @@ A curated list of Platform and Production Engineering tools - Maintained by [Sai
 
 ## Continuous Monitoring
 
+- [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring for 120+ developer APIs including AWS, Stripe, GitHub, OpenAI, and more
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [DebugBear](https://www.debugbear.com/)
 - [Prometheus](https://prometheus.io/)
